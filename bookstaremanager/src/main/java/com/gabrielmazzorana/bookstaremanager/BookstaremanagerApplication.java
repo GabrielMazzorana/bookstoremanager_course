@@ -11,3 +11,5 @@ public class BookstaremanagerApplication {
 	}
 
 }
+//Spring boot actuator: inclui diversos endpoints, ferramentas para ajudar a monitorar informações como
+//número de commits de build, memória
